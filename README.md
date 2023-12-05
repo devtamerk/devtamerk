@@ -1,6 +1,6 @@
 ### Merhaba, Ben Tamer! 👋
 
-🚀 Yazılım dünyasında keşif yolculuğuma çıkmış, kodlamaya ve teknolojiye olan tutkumla gelişmeye devam eden bir yazılım geliştiriciyim.
+🚀 Yazılım geliştiriciyim.
 
 💡 Geniş bir teknoloji yelpazesine hakim olmakla birlikte, özellikle PHP, JavaScript ve Python ile projeler üretmekteyim. Web geliştirme, yapay zeka ve veri bilimi konularında derinlemesine ilgi duyuyorum.
 
