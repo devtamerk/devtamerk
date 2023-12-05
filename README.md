@@ -1,6 +1,6 @@
 ### Merhaba, Ben Tamer! 👋
 
-🚀 Yazılım geliştiriciyim.
+🚀 Yazılım geliştirici ve teknoloji meraklısıyım. GitHub'ta kod örnekleri ve projelerim mevcut.
 
 💡 Geniş bir teknoloji yelpazesine hakim olmakla birlikte, özellikle PHP, JavaScript ve Python ile projeler üretmekteyim. Web geliştirme, yapay zeka ve veri bilimi konularında derinlemesine ilgi duyuyorum.
 
@@ -9,3 +9,5 @@
 📫 İletişim: [LinkedIn](https://www.linkedin.com/in/tamerkirci/) | [Twitter](https://twitter.com/tamerkirci)
 
 🔗 Teknoloji dünyasındaki son gelişmeleri takip ediyor ve yeni projelerle ilgileniyorum. Siz de bu yolculukta bana katılın!
+
+
